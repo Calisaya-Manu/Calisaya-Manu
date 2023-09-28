@@ -1,4 +1,10 @@
 <img src="Portada.png" alt="Texto Alternativo" width="200%" height="180" />
+<h1>
+  
+</h1>
+<h2>
+  
+</h2>
 
 <h3  color=FFFF00 > Formacion Personal y professional</h3>
 
