@@ -1,1 +1,1 @@
-![Texto Alternativo](Portada.png){width=200px height=150px}
+<img src="Portada.png" alt="Texto Alternativo" width="200%" height="180" />
