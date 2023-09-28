@@ -7,6 +7,7 @@
     <a href="https://github.com/Calisaya-Manu/Analista-Programador-Universitario.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Calisaya-Manu&repo=Analista-Programador-Universitario&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
     
   </p>
+
   <h2>
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" height="30" />
+   <img width="278" height="280" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" height="30" />
   </h2>
