@@ -11,8 +11,8 @@
 </p>
 <h4 align="center">📙📙 Formacion Personal 🧢🎒</h4>
 <p align="center">
-  <a href="https://github.com/Calisaya-Manu/Cajero-de-Super-e-Hiper-Mercado.git"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Calisaya-Manu&repo=Cajero-de-Super-e-Hiper-Mercado&theme=react&bg_color=000000&title_color=AA00FF&icon_color=FFFF00&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Calisaya-Manu/Herramientas-Financieras-Para-Emprendedores.git"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Calisaya-Manu&repo=Herramientas-Financieras-Para-Emprendedores&theme=react&bg_color=000000&title_color=AA00FF&icon_color=FFFF00&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Calisaya-Manu/Cajero-de-Super-e-Hiper-Mercado.git"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Calisaya-Manu&repo=Cajero-de-Super-e-Hiper-Mercado&theme=react&bg_color=000000&title_color=AA00FF&icon_color=FFFF00&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Calisaya-Manu/Herramientas-Financieras-Para-Emprendedores.git"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Calisaya-Manu&repo=Herramientas-Financieras-Para-Emprendedores&theme=react&bg_color=000000&title_color=AA00FF&icon_color=FFFF00&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 </p>
 
 
