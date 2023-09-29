@@ -16,7 +16,7 @@
 <h3 align="center" >📚 Proyectos Android Studio (Kotlin) 👔🎓</h3>
 <p align="center">
   <a href="https://github.com/Calisaya-Manu/Juego_Memoria.git"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Calisaya-Manu&repo=Juego_Memoria&theme=react&bg_color=025757&title_color=3AFF00&icon_color=00F3FF&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Calisaya-Manu/Herramientas-Financieras-Para-Emprendedores.git"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Calisaya-Manu&repo=Herramientas-Financieras-Para-Emprendedores&theme=react&bg_color=025757&title_color=3AFF00&icon_color=00F3FF&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Calisaya-Manu/_Mis_Tareas_.git"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Calisaya-Manu&repo=_Mis_Tareas_&theme=react&bg_color=025757&title_color=3AFF00&icon_color=00F3FF&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 </p>
 
 
