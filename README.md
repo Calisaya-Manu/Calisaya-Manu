@@ -1,7 +1,11 @@
 <img src="Portada.png" alt="Texto Alternativo" width="200%" height="180" />
-<h3 align="center" >📚 Formacion Personal y professional 👔🎓</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1200&pause=1000&color=FF00E0&center=true&width=635&lines= Formacion Personal y professional👔"/>
+</div>
 <p align="center" "FFFF00">Este es mi recorrido en el mundo de la programacion y tambien mi formacion personal </p>
-<h5 align="center">0️⃣1️⃣ Formacion en Programacion 💻👨🏽‍💼 </h5>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=1000&color=23FF00&center=true&width=635&lines= Formacion en Programacion 💻👨🏽‍💼"/>
+</div>
 <p align="center">
   <a href="https://github.com/Calisaya-Manuel/Analista-Programador-Universitario.git"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Calisaya-Manuel&repo=Analista-Programador-Universitario&theme=react&bg_color=235702&title_color=FFFF00&icon_color=AA00FF&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/Calisaya-Manuel/Capacitacion-C.git"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=Calisaya-Manuel&repo=Capacitacion-C&theme=react&bg_color=235702&title_color=FFFF00&icon_color=AA00FF&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
